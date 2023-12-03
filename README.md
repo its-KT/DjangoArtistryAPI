@@ -25,23 +25,28 @@ Follw below steps , these instructions will help you set up and run the Django A
 
    cd django-artist-api  #check your downloaded file path before this
    
-4. Create a virtual environment
+3. Create a virtual environment
 
    python -m venv venv
    
-6. Activte the VM (in Windows OS)
+4. Activte the VM (in Windows OS)
+   
    venv\Scripts\activate
    
-7. Install the Requirement Libraries
-   - pip install djangorestframework
+5. Install the Requirement Libraries
+   
+   pip install djangorestframework
      
-8. To set-up database
+6. To set-up database
+   
    python manage.py migrate
    
-9. Create superuser account
+7. Create superuser account
+    
    python manage.py createsuperuser
 
 8.Run the server
+
    python manage.py runserver
    
 
