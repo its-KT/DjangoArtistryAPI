@@ -16,7 +16,8 @@ Follw below steps , these instructions will help you set up and run the Django A
 
 1. Clone the repository:
 
-   ```bash - git clone https://github.com/yourusername/django-artist-api.git
+   ```bash
+   - git clone https://github.com/yourusername/django-artist-api.git
    or
    Can download the files manually
    
